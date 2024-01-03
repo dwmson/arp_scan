@@ -29,7 +29,7 @@ python3 main.py
 
 ```
 
-## Educational Purpose and Ethical use
+## 🚨 Educational Purpose and Ethical use 🚨
 This project was developed as part of an educational program at the University of Colorado - Boulder. It is intended solely for educational and research purposes. 
 Users are expected to comply with all applicable laws and ethical guidelines when using or modifying this tool. Unauthorized scanning and probing of networks can be illegal and unethical. 
 **It is the user's responsibility to ensure lawful and ethical use of this tool.**
